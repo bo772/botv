@@ -1,0 +1,6 @@
+#EXTM3U 
+#EXTINF:-1 channel-id="pbs-KAET" tvg-id="KAET" tvg-logo="https://image.pbs.org/stations/kaet-color-single-brand-logo-Bz3Oe7u.png",Arizona PBS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.drm.pbs.org/license/widevine/1efa6a7d-f84a-4d5f-8b4a-b645317b2bb3-dash|Content-Type=application%2Foctet-stream&user-agent=okhttp%2F4.9.0|R{SSM}|
+https://kaetdt.lls.pbs.org/out/v1/cfeedd6f287b4efbb41edf5f80f662e9/dash-drm.mpd|user-agent=okhttp%2F4.9.0
